@@ -1,0 +1,1 @@
+<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">[{"companyID":"73","companyName":"菲律賓廣東AG貴賓會","Marker津貼":"","Marker碼佣":"","地址":"菲律賓馬尼拉晨麗度假村2樓","飛房電話":"暫無","現金津貼":"","現金碼佣":"","現場投注Marker佣":"1800","現場投注現金佣":"2000","場面電話":"暫無","電話投注Marker佣":"1900","電話投注現金佣":"2100","圖片URL":"&amp;nbsp;","賬房電話":"暫無","賭臺數":"13張"}]</string>
